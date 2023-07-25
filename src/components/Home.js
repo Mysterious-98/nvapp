@@ -7,6 +7,7 @@ import { useState, useEffect } from 'react'
 import Navbar from '../components/Navbar';
 import { motion } from "framer-motion"
 import { useMediaQuery } from 'react-responsive';
+import logogo from '../video/R.gif'
 function Home() {
   
   const [showVideo, SetShow] = useState(true)
@@ -38,10 +39,11 @@ function Home() {
         </video>
            */}
             {isMobile ?
-              <video className='vidvid' autoPlay muted  >
-                <source src={bb} type="video/mp4" />
-                {/* <source src={bb} type="video/mp4" /> */}
-              </video>
+              // <video className='vidvid' autoPlay muted  >
+              //   <source src={bb} type="video/mp4" />
+              //   {/* <source src={bb} type="video/mp4" /> */}
+              // </video>
+              <img src={logogo} />
               : <div>
 
                 <video className='vidvid' autoPlay loop muted  >
