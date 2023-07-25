@@ -1,0 +1,19 @@
+.card-title{
+    /* text-shadow: 2px 2px black; */
+}
+.card-text{
+    /* text-shadow: 1px 2px black; */
+    
+}
+.btn{
+    /* text-shadow: 1px 1px black; */
+
+}
+
+/* above code is working perfectly */
+.card-img-overlay{
+    /* top: 30%; */
+}
+.det{
+    /* margin-top: 120px; */
+}

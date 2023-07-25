@@ -1,0 +1,42 @@
+.navb{
+    /* background-color: rgb(209, 209, 209); */
+    color: black;
+    padding: 10px 0;
+    height: 75px;
+}
+.logo{
+    /* display: flex; */
+    font-family: 'Caveat', cursive;
+    font-weight: medium 400;
+    font-size: 25px;
+}
+/* .buttnz{
+    display: flex;
+    padding: 2mm 23vw;
+    width:54vw;
+} */
+.buttnz {
+    display: flex;
+    padding: 1mm 23vw;
+    width: 100vw;
+    margin-top: 2px;
+    /* margin-bottom: 20px; */
+    /* margin-bottom: 4px; */
+    background-color: rgb(245, 245, 245);
+}
+.buttonx2{
+    /* display: flex; */
+    
+        display: flex;
+        width: 46vw;
+        padding: 0 27vw;
+    
+}
+.btnbt{
+    margin-right: 10px;
+    /* margin-bottom: 10px; */
+    color: black;
+}
+.btnbt:hover{
+    color: rgb(75, 173, 173);
+}

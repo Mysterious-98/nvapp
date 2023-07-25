@@ -1,0 +1,19 @@
+/* .cont1{
+    margin-top: 60px;
+    padding: 0 1rem;
+} */
+.parent{
+    position: relative;
+}
+.cont1 {
+    margin-top: 48px;
+    padding: 0 1rem;
+    position: absolute;
+    /* z-index: 2; */
+    top: 165px;
+}
+.vidvid5{
+    margin-top: 17px;
+    height: 46vh;
+    margin-bottom: 10px;
+}
