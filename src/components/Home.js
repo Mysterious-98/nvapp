@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react'
 import Navbar from '../components/Navbar';
 import { motion } from "framer-motion"
 import { useMediaQuery } from 'react-responsive';
-import logogo from '../video/R.gif'
+import logogo from '../video/wrld.gif'
 function Home() {
   
   const [showVideo, SetShow] = useState(true)
@@ -17,7 +17,7 @@ function Home() {
     setTimeout(() => {
       SetShow(false)
       SetData(true)
-    }, 8800);
+    }, 7800);
     setTimeout(() => {
       Setcontext(true)
     }, 2000);
@@ -43,7 +43,7 @@ function Home() {
               //   <source src={bb} type="video/mp4" />
               //   {/* <source src={bb} type="video/mp4" /> */}
               // </video>
-              <img src={logogo} />
+              <img className='vidvid' src={logogo} />
               : <div>
 
                 <video className='vidvid' autoPlay loop muted  >
