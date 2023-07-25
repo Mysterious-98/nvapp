@@ -14,6 +14,7 @@ import Stories from './components/Stories';
 import { Story1 } from './components/Story1';
 import About from './components/About';
 import Pictures from './components/Pictures';
+import Story2 from './components/Story2';
 
 // import viddo from "./vidd.mp4"
 function App() {
@@ -24,6 +25,7 @@ function App() {
         <Route path='/' element={<Home/>}></Route>
         <Route path='/stories' element={<Stories/>}></Route>
         <Route path='/stories/story1' element={<Story1/>}></Route>
+        <Route path='/stories/story2' element={<Story2/>}></Route>
         <Route path='/about' element={<About/>}></Route>
         <Route path='/pictures' element={<Pictures/>}></Route>
       </Routes>

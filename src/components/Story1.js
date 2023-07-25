@@ -7,7 +7,7 @@ export const Story1 = () => {
   return (
     <div>
         <Navbar/>
-        <Imagecrd imgsrs="https://iv1.lisimg.com/image/12007528/667full-savannah-rae-linz.jpg" title='Shruti navel play during train journey' details='Shruti ek bahut sunder ladki thi, uski height 5.5 feet thi, rang gora aur uska fashion sense kisi bhi fashionista ko bhi hara deti. Ek din, wo ek stylish croptop mein train journey par nikli. Uski nabhi kaafi dikh rahi thi, aur logon ki nazar uski taraf attract ho gayi. Sab thodi der ke liye shock mein the, lekin phir samay ke saath sab normal ho gaya.
+        <Imagecrd imgsrs="https://iv1.lisimg.com/image/12007528/667full-savannah-rae-linz.jpg" title='Shruti navel play during train journey' clast="tit" classe='paratext' details='Shruti ek bahut sunder ladki thi, uski height 5.5 feet thi, rang gora aur uska fashion sense kisi bhi fashionista ko bhi hara deti. Ek din, wo ek stylish croptop mein train journey par nikli. Uski nabhi kaafi dikh rahi thi, aur logon ki nazar uski taraf attract ho gayi. Sab thodi der ke liye shock mein the, lekin phir samay ke saath sab normal ho gaya.
 
 Kuch der baad, train achanak se khali ho gayi, aur ek 20 saal ka ladka, Aarav, Shruti ke paas aakar baith gaya. Shruti 24 saal ki thi, lekin uske chehre pe us masoomiyat aur confidence ka mixture tha, jo Aarav ko khinch leta tha.
 

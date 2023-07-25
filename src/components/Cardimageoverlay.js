@@ -10,7 +10,7 @@ const Cardimageoverlay = (props) => {
     <h5 class="card-title">{props.name}</h5>
     <div className='det'>
 
-    <p class="card-text">{props.detail}</p>
+    <p className={`card-text ${props.classe}`}  >{props.detail}</p>
     {/* <p class="card-text"><small>Last updated 3 mins ago</small></p> */}
     {/* <a href="#" class="btn btn-primary">{props.button}</a> */}
     <Link to={props.link} className='btn btn-primary'>{props.button}</Link>

@@ -1,15 +1,21 @@
 .card-title{
-    /* text-shadow: 2px 2px black; */
+    text-shadow: 2px 2px black;
 }
 .card-text{
-    /* text-shadow: 1px 2px black; */
+    text-shadow: 1px 2px black;
     
 }
 .btn{
-    /* text-shadow: 1px 1px black; */
+    text-shadow: 1px 1px black;
 
 }
-
+.paratext{
+    /* color: red; */
+    text-shadow: none;
+}
+.tit{
+    text-shadow: none;
+}
 /* above code is working perfectly */
 .card-img-overlay{
     /* top: 30%; */

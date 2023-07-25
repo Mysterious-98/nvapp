@@ -43,7 +43,7 @@ function Home() {
               //   <source src={bb} type="video/mp4" />
               //   {/* <source src={bb} type="video/mp4" /> */}
               // </video>
-              <img className='vidvid' src={logogo} />
+              <img className='vidvid imgg' src={logogo} />
               : <div>
 
                 <video className='vidvid' autoPlay loop muted  >

@@ -91,7 +91,7 @@ const TextAnimation = () => {
          {/* <Details name='basssin'/> */}
 <Cardimageoverlay imgsrc="https://wallpapercave.com/dwp1x/wp9553159.jpg" name="Erotic Navel Stories" detail="Explore sizzling Indian navel stories that will ignite your imagination and captivate your senses." button="Lets Explore" link='stories'/>
 
-<Cardimageoverlay imgsrc="https://wallpapercave.com/dwp1x/wp9226730.jpg" name="Navel Images " detail="Explore sizzling Indian navel stories that will ignite your imagination and captivate your senses." button="Lets Explore"/>
+<Cardimageoverlay imgsrc="https://wallpapercave.com/dwp1x/wp9226730.jpg" name="Navel Images " detail="Explore sizzling Indian navel stories that will ignite your imagination and captivate your senses." button="Lets Explore" link="/pictures"/>
 
 <Cardimageoverlay imgsrc="https://wallpapercave.com/dwp1x/wp9260541.jpg" name="Navel Videos " detail="Explore sizzling Indian navel stories that will ignite your imagination and captivate your senses." button="Lets Explore"/>
 

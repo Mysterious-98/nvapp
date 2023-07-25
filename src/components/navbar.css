@@ -1,8 +1,9 @@
 .navb{
     /* background-color: rgb(209, 209, 209); */
     color: black;
+ height: 90px;
     padding: 10px 0;
-    height: 75px;
+    /* height: 75px; */
 }
 .logo{
     /* display: flex; */
