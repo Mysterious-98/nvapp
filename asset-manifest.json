@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/nvapp/static/css/main.01d96fe5.css",
-    "main.js": "/nvapp/static/js/main.044bed67.js",
+    "main.css": "/nvapp/static/css/main.0d08a6f2.css",
+    "main.js": "/nvapp/static/js/main.50cd13a7.js",
     "static/js/787.14f635a8.chunk.js": "/nvapp/static/js/787.14f635a8.chunk.js",
     "static/media/video.mp4": "/nvapp/static/media/video.879d60d4cfbc8108b4b6.mp4",
     "static/media/wrld.mp4": "/nvapp/static/media/wrld.1d8621a94836cd06e6b4.mp4",
+    "static/media/wrld.gif": "/nvapp/static/media/wrld.0387d247645b2bf27d20.gif",
     "static/media/vidd.mp4": "/nvapp/static/media/vidd.e855c50df0bd26fef2da.mp4",
-    "static/media/R.gif": "/nvapp/static/media/R.d12525343b98eb2dfa2a.gif",
     "static/media/wlcm.mp4": "/nvapp/static/media/wlcm.8a9942602af1f3544e2f.mp4",
     "static/media/logo.svg": "/nvapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nvapp/index.html",
-    "main.01d96fe5.css.map": "/nvapp/static/css/main.01d96fe5.css.map",
-    "main.044bed67.js.map": "/nvapp/static/js/main.044bed67.js.map",
+    "main.0d08a6f2.css.map": "/nvapp/static/css/main.0d08a6f2.css.map",
+    "main.50cd13a7.js.map": "/nvapp/static/js/main.50cd13a7.js.map",
     "787.14f635a8.chunk.js.map": "/nvapp/static/js/787.14f635a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01d96fe5.css",
-    "static/js/main.044bed67.js"
+    "static/css/main.0d08a6f2.css",
+    "static/js/main.50cd13a7.js"
   ]
 }
